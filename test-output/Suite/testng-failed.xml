@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite thread-count="4" parallel="classes" name="Failed suite [Suite]">
+<suite name="Failed suite [Suite]">
   <listeners>
     <listener class-name="utilities.ExtentReportManager"/>
   </listeners>
-  <test thread-count="4" parallel="classes" name="Test(failed)">
+  <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="tests.TC_NC_001">
-        <methods>
-          <include name="tearDownClass"/>
-          <include name="setup"/>
-          <include name="newCustomerAdding"/>
-        </methods>
-      </class> <!-- tests.TC_NC_001 -->
       <class name="tests.TC_NC_027">
         <methods>
           <include name="tearDownClass"/>

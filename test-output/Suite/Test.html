@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>25/2/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>1/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Wed Mar 26 11:52:35 IST 2025</td>
+<td>Started on:</td><td>Wed Mar 26 15:37:39 IST 2025</td>
 </tr>
-<tr><td>Total time:</td><td>113 seconds (113548 ms)</td>
+<tr><td>Total time:</td><td>18 seconds (18975 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -76,49 +76,14 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='tests.TC_NC_001.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_001</td>
-<td><div><pre>java.lang.AssertionError: No success alert appeared. Possible form submission failure.
-	at tests.TC_NC_001.verifySuccessAlert(TC_NC_001.java:74)
-	at tests.TC_NC_001.newCustomerAdding(TC_NC_001.java:52)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-	at java.base/java.lang.Thread.run(Thread.java:1583)
-... Removed 11 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace244569957", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace244569957'><pre>java.lang.AssertionError: No success alert appeared. Possible form submission failure.
-	at org.testng.Assert.fail(Assert.java:111)
-	at tests.TC_NC_001.verifySuccessAlert(TC_NC_001.java:74)
-	at tests.TC_NC_001.newCustomerAdding(TC_NC_001.java:52)
-	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
-	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
-	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
-	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
-	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
-	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
-	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-	at java.base/java.lang.Thread.run(Thread.java:1583)
-</pre></div></td>
-<td>12</td>
-<td>tests.TC_NC_001@4a11eb84</td></tr>
-<tr>
 <td title='tests.TC_NC_027.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_027</td>
-<td><div><pre>java.lang.AssertionError: Error message mismatch expected [Emal-ID must not be blank] but found [Email-ID must not be blank]
-	at tests.TC_NC_027.newCustomerAdding(TC_NC_027.java:21)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-	at java.base/java.lang.Thread.run(Thread.java:1583)
-... Removed 15 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace982674648", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace982674648'><pre>java.lang.AssertionError: Error message mismatch expected [Emal-ID must not be blank] but found [Email-ID must not be blank]
+<td><div><pre>java.lang.AssertionError:  Test failed: Expected error message &apos;Emil-ID must not be blank&apos; but got &apos;Email-ID must not be blank&apos;
+	at tests.TC_NC_027.newCustomerAdding(TC_NC_027.java:29)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+... Removed 26 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace599316979", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace599316979'><pre>java.lang.AssertionError:  Test failed: Expected error message &apos;Emil-ID must not be blank&apos; but got &apos;Email-ID must not be blank&apos;
 	at org.testng.Assert.fail(Assert.java:111)
-	at org.testng.Assert.failNotEquals(Assert.java:1578)
-	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
-	at org.testng.Assert.assertEquals(Assert.java:132)
-	at org.testng.Assert.assertEquals(Assert.java:656)
-	at tests.TC_NC_027.newCustomerAdding(TC_NC_027.java:21)
+	at tests.TC_NC_027.newCustomerAdding(TC_NC_027.java:29)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
@@ -129,12 +94,25 @@ function toggleAllBoxes() {
 	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
 	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
 	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
-	at java.base/java.lang.Thread.run(Thread.java:1583)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.testng.TestRunner.privateRun(TestRunner.java:848)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+	at org.testng.TestNG.runSuites(TestNG.java:1114)
+	at org.testng.TestNG.run(TestNG.java:1082)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
 </pre></div></td>
 <td>0</td>
-<td>tests.TC_NC_027@7096b474</td></tr>
+<td>tests.TC_NC_027@2371aaca</td></tr>
 </table><p>
 <table width='100%' border='1' class='invocation-passed'>
 <tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
@@ -145,130 +123,10 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='tests.TC_NC_004.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_004</td>
-<td></td>
-<td>1</td>
-<td>tests.TC_NC_004@56c698e3</td></tr>
-<tr>
-<td title='tests.TC_NC_010.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_010</td>
-<td></td>
-<td>0</td>
-<td>tests.TC_NC_010@4c4748bf</td></tr>
-<tr>
-<td title='tests.TC_NC_018.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_018</td>
-<td></td>
-<td>2</td>
-<td>tests.TC_NC_018@14d14731</td></tr>
-<tr>
-<td title='tests.TC_NC_007.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_007</td>
-<td></td>
-<td>0</td>
-<td>tests.TC_NC_007@19553973</td></tr>
-<tr>
 <td title='tests.TC_NC_026.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_026</td>
 <td></td>
 <td>0</td>
-<td>tests.TC_NC_026@4bd1f8dd</td></tr>
-<tr>
-<td title='tests.TC_NC_011.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_011</td>
-<td></td>
-<td>0</td>
-<td>tests.TC_NC_011@7ce97ee5</td></tr>
-<tr>
-<td title='tests.TC_NC_012.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_012</td>
-<td></td>
-<td>0</td>
-<td>tests.TC_NC_012@32c8e539</td></tr>
-<tr>
-<td title='tests.TC_NC_023.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_023</td>
-<td></td>
-<td>0</td>
-<td>tests.TC_NC_023@4b7e96a</td></tr>
-<tr>
-<td title='tests.TC_NC_014.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_014</td>
-<td></td>
-<td>0</td>
-<td>tests.TC_NC_014@5a85c92</td></tr>
-<tr>
-<td title='tests.TC_NC_005.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_005</td>
-<td></td>
-<td>1</td>
-<td>tests.TC_NC_005@47a86fbb</td></tr>
-<tr>
-<td title='tests.TC_NC_021.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_021</td>
-<td></td>
-<td>0</td>
-<td>tests.TC_NC_021@42f33b5d</td></tr>
-<tr>
-<td title='tests.TC_NC_017.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_017</td>
-<td></td>
-<td>1</td>
-<td>tests.TC_NC_017@53dacd14</td></tr>
-<tr>
-<td title='tests.TC_NC_022.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_022</td>
-<td></td>
-<td>1</td>
-<td>tests.TC_NC_022@5c8504fd</td></tr>
-<tr>
-<td title='tests.TC_NC_025.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_025</td>
-<td></td>
-<td>0</td>
-<td>tests.TC_NC_025@3f07b12c</td></tr>
-<tr>
-<td title='tests.TC_NC_006.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_006</td>
-<td></td>
-<td>1</td>
-<td>tests.TC_NC_006@f478a81</td></tr>
-<tr>
-<td title='tests.TC_NC_002.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_002</td>
-<td></td>
-<td>2</td>
-<td>tests.TC_NC_002@5733f295</td></tr>
-<tr>
-<td title='tests.TC_NC_015.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_015</td>
-<td></td>
-<td>0</td>
-<td>tests.TC_NC_015@32811494</td></tr>
-<tr>
-<td title='tests.TC_NC_009.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_009</td>
-<td></td>
-<td>0</td>
-<td>tests.TC_NC_009@7fe7c640</td></tr>
-<tr>
-<td title='tests.TC_NC_019.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_019</td>
-<td></td>
-<td>0</td>
-<td>tests.TC_NC_019@2eced48b</td></tr>
-<tr>
-<td title='tests.TC_NC_024.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_024</td>
-<td></td>
-<td>1</td>
-<td>tests.TC_NC_024@6475472c</td></tr>
-<tr>
-<td title='tests.TC_NC_008.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_008</td>
-<td></td>
-<td>0</td>
-<td>tests.TC_NC_008@7bb6ab3a</td></tr>
-<tr>
-<td title='tests.TC_NC_016.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_016</td>
-<td></td>
-<td>1</td>
-<td>tests.TC_NC_016@4795ded0</td></tr>
-<tr>
-<td title='tests.TC_NC_013.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_013</td>
-<td></td>
-<td>0</td>
-<td>tests.TC_NC_013@73dce0e6</td></tr>
-<tr>
-<td title='tests.TC_NC_003.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_003</td>
-<td></td>
-<td>2</td>
-<td>tests.TC_NC_003@1c3146bc</td></tr>
-<tr>
-<td title='tests.TC_NC_020.newCustomerAdding()'><b>newCustomerAdding</b><br>Test class: tests.TC_NC_020</td>
-<td></td>
-<td>0</td>
-<td>tests.TC_NC_020@47c4ecdc</td></tr>
+<td>tests.TC_NC_026@781f10f2</td></tr>
 </table><p>
 </body>
 </html>

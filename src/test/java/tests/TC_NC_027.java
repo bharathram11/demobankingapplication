@@ -14,19 +14,30 @@ public class TC_NC_027 extends BaseClass {
         acp.enterAddress(randomeString());;
 
         try {
-            String errorMsg = acp.getErrorMessageofEmail();
-            log.info("Captured Error Message: '" + errorMsg + "'");
+            log.debug("Starting error message validation process...");
 
-            // Assertion to verify the expected error message
-            Assert.assertEquals(errorMsg.trim(), "Email-ID must not be blank", "Error message mismatch");
-            log.info("Error message verification passed successfully.");
+            String actualErrorMsg = acp.getErrorMessageofEmail();
+            log.debug("Captured Error Message: '" + actualErrorMsg + "'");
+
+            String expectedErrorMsg = "Email-ID must not be blank";
+
+            if (!actualErrorMsg.trim().equals(expectedErrorMsg)) {
+                log.error(" ERROR MESSAGE MISMATCH ");
+                log.error("  Expected: '" + expectedErrorMsg + "'");
+                log.error("  Actual:   '" + actualErrorMsg.trim() + "'");
+
+                Assert.fail(" Test failed: Expected error message '" + expectedErrorMsg + 
+                            "' but got '" + actualErrorMsg.trim() + "'");
+            }
+
+            log.info(" Error message verification PASSED successfully.");
 
         } catch (Exception e) {
-            log.error("Exception occurred while capturing the error message: " + e.getMessage());
-            SoftAssert softAssert = new SoftAssert();
-            softAssert.fail("Test failed due to exception: " + e.getMessage());
-            softAssert.assertAll(); // Ensure the test doesn't stop execution
-
+            log.error(" ERROR: Exception occurred while capturing the error message: " + e.getMessage(), e);
+            Assert.fail(" Test failed due to exception: " + e.getMessage());
         }
+
+
+
     }
 }

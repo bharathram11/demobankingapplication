@@ -1,320 +1,52 @@
-2025-03-26 12:48:07 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [D:\Automation\org.bank.demo\testng.xml] otherwise TestNG may fail or not work as expected.
-2025-03-26 12:48:08 INFO  TC_NC_001:46 - Initializing test setup...
-2025-03-26 12:48:08 INFO  TC_NC_001:52 - Configuration file loaded successfully.
-2025-03-26 12:48:12 INFO  TC_NC_001:59 - WebDriver initialized successfully.
-2025-03-26 12:48:18 INFO  TC_NC_001:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:48:22 INFO  TC_NC_001:71 - Entered credentials and attempted login.
-2025-03-26 12:48:22 INFO  TC_NC_001:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:48:24 INFO  TC_NC_001:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:48:24 INFO  TC_NC_001:10 - Navigating to Add New Customer page
-2025-03-26 12:48:24 INFO  TC_NC_001:15 - Entered Customer Name: GJaWU
-2025-03-26 12:48:25 INFO  TC_NC_001:18 - Selected Gender: Male
-2025-03-26 12:48:25 INFO  TC_NC_001:22 - Entered Date of Birth: 26-03-2025
-2025-03-26 12:48:25 INFO  TC_NC_001:26 - Entered Address: JNNMy
-2025-03-26 12:48:25 INFO  TC_NC_001:30 - Entered City: hUZWn
-2025-03-26 12:48:25 INFO  TC_NC_001:34 - Entered State: EqdTO
-2025-03-26 12:48:26 INFO  TC_NC_001:38 - Entered PIN: 497172
-2025-03-26 12:48:26 INFO  TC_NC_001:42 - Entered Mobile Number: 0243610574
-2025-03-26 12:48:26 INFO  TC_NC_001:46 - Entered Email ID: VEKyB@gmail.com
-2025-03-26 12:48:28 INFO  TC_NC_001:49 - Clicked on Submit button
-2025-03-26 12:48:28 INFO  TC_NC_001:59 - Alert Text: Customer added successfully !!!.
- Generated Customer ID: 58653
-2025-03-26 12:48:28 INFO  TC_NC_001:63 - Success alert verified: Customer added successfully.
-2025-03-26 12:48:28 INFO  TC_NC_001:71 - Accepted success alert.
-2025-03-26 12:48:29 INFO  TC_NC_001:96 - Test execution completed. Browser closed.
-2025-03-26 12:48:29 INFO  TC_NC_002:46 - Initializing test setup...
-2025-03-26 12:48:29 INFO  TC_NC_002:52 - Configuration file loaded successfully.
-2025-03-26 12:48:30 INFO  TC_NC_002:59 - WebDriver initialized successfully.
-2025-03-26 12:48:45 INFO  TC_NC_002:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:48:50 INFO  TC_NC_002:71 - Entered credentials and attempted login.
-2025-03-26 12:48:50 INFO  TC_NC_002:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:48:53 INFO  TC_NC_002:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:48:53 INFO  TC_NC_002:10 - Validating error message for leading space in Customer Name
-2025-03-26 12:48:53 INFO  TC_NC_002:15 - Entered invalid customer name: ' mNdir'
-2025-03-26 12:48:53 INFO  TC_NC_002:19 - Captured error message: 'First character can not have space'
-2025-03-26 12:48:53 INFO  TC_NC_002:23 - Error message verified successfully.
-2025-03-26 12:48:54 INFO  TC_NC_002:96 - Test execution completed. Browser closed.
-2025-03-26 12:48:54 INFO  TC_NC_003:46 - Initializing test setup...
-2025-03-26 12:48:54 INFO  TC_NC_003:52 - Configuration file loaded successfully.
-2025-03-26 12:48:55 INFO  TC_NC_003:59 - WebDriver initialized successfully.
-2025-03-26 12:49:01 INFO  TC_NC_003:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:49:04 INFO  TC_NC_003:71 - Entered credentials and attempted login.
-2025-03-26 12:49:04 INFO  TC_NC_003:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:49:06 INFO  TC_NC_003:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:49:06 INFO  TC_NC_003:10 - Validating error message for special characters in Customer Name
-2025-03-26 12:49:07 INFO  TC_NC_003:15 - Entered invalid customer name: '!XPZZmc'
-2025-03-26 12:49:07 INFO  TC_NC_003:19 - Captured error message: 'Special characters are not allowed'
-2025-03-26 12:49:07 INFO  TC_NC_003:23 - Error message verified successfully.
-2025-03-26 12:49:07 INFO  TC_NC_003:96 - Test execution completed. Browser closed.
-2025-03-26 12:49:07 INFO  TC_NC_004:46 - Initializing test setup...
-2025-03-26 12:49:07 INFO  TC_NC_004:52 - Configuration file loaded successfully.
-2025-03-26 12:49:09 INFO  TC_NC_004:59 - WebDriver initialized successfully.
-2025-03-26 12:49:15 INFO  TC_NC_004:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:49:18 INFO  TC_NC_004:71 - Entered credentials and attempted login.
-2025-03-26 12:49:19 INFO  TC_NC_004:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:49:20 INFO  TC_NC_004:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:49:20 INFO  TC_NC_004:10 - Validating error message for blank Customer Name
-2025-03-26 12:49:21 INFO  TC_NC_004:14 - Entered empty Customer Name to trigger validation error
-2025-03-26 12:49:21 INFO  TC_NC_004:18 - Selected Male Gender to move focus and trigger validation
-2025-03-26 12:49:21 INFO  TC_NC_004:22 - Captured error message: 'Customer name must not be blank'
-2025-03-26 12:49:21 INFO  TC_NC_004:26 - Error message verified successfully.
-2025-03-26 12:49:22 INFO  TC_NC_004:96 - Test execution completed. Browser closed.
-2025-03-26 12:49:22 INFO  TC_NC_005:46 - Initializing test setup...
-2025-03-26 12:49:22 INFO  TC_NC_005:52 - Configuration file loaded successfully.
-2025-03-26 12:49:23 INFO  TC_NC_005:59 - WebDriver initialized successfully.
-2025-03-26 12:49:30 INFO  TC_NC_005:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:49:35 INFO  TC_NC_005:71 - Entered credentials and attempted login.
-2025-03-26 12:49:35 INFO  TC_NC_005:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:49:40 INFO  TC_NC_005:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:49:40 INFO  TC_NC_005:10 - Validating error message for customer name starting with a space
-2025-03-26 12:49:40 INFO  TC_NC_005:14 - Entered customer name with a leading space
-2025-03-26 12:49:40 INFO  TC_NC_005:18 - Captured error message: 'First character can not have space'
-2025-03-26 12:49:40 INFO  TC_NC_005:22 - Error message verified successfully.
-2025-03-26 12:49:40 INFO  TC_NC_005:96 - Test execution completed. Browser closed.
-2025-03-26 12:49:40 INFO  TC_NC_006:46 - Initializing test setup...
-2025-03-26 12:49:40 INFO  TC_NC_006:52 - Configuration file loaded successfully.
-2025-03-26 12:49:42 INFO  TC_NC_006:59 - WebDriver initialized successfully.
-2025-03-26 12:49:57 INFO  TC_NC_006:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:50:01 INFO  TC_NC_006:71 - Entered credentials and attempted login.
-2025-03-26 12:50:01 INFO  TC_NC_006:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:50:05 INFO  TC_NC_006:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:50:05 INFO  TC_NC_006:10 - Validating error message when Address field is left blank
-2025-03-26 12:50:05 INFO  TC_NC_006:14 - Address field left empty
-2025-03-26 12:50:05 INFO  TC_NC_006:18 - Moved to the next field (Gender selected) to trigger validation
-2025-03-26 12:50:05 INFO  TC_NC_006:22 - Captured error message: 'Address Field must not be blank'
-2025-03-26 12:50:05 INFO  TC_NC_006:26 - Error message verified successfully.
-2025-03-26 12:50:06 INFO  TC_NC_006:96 - Test execution completed. Browser closed.
-2025-03-26 12:50:06 INFO  TC_NC_007:46 - Initializing test setup...
-2025-03-26 12:50:06 INFO  TC_NC_007:52 - Configuration file loaded successfully.
-2025-03-26 12:50:07 INFO  TC_NC_007:59 - WebDriver initialized successfully.
-2025-03-26 12:50:12 INFO  TC_NC_007:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:50:15 INFO  TC_NC_007:71 - Entered credentials and attempted login.
-2025-03-26 12:50:15 INFO  TC_NC_007:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:50:17 INFO  TC_NC_007:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:50:17 INFO  TC_NC_007:10 - Validating error message when Address field starts with a space
-2025-03-26 12:50:17 INFO  TC_NC_007:14 - Entered Address with a leading space
-2025-03-26 12:50:17 INFO  TC_NC_007:18 - Captured error message: 'First character can not have space'
-2025-03-26 12:50:17 INFO  TC_NC_007:22 - Error message verified successfully.
-2025-03-26 12:50:18 INFO  TC_NC_007:96 - Test execution completed. Browser closed.
-2025-03-26 12:50:18 INFO  TC_NC_008:46 - Initializing test setup...
-2025-03-26 12:50:18 INFO  TC_NC_008:52 - Configuration file loaded successfully.
-2025-03-26 12:50:19 INFO  TC_NC_008:59 - WebDriver initialized successfully.
-2025-03-26 12:50:24 INFO  TC_NC_008:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:50:27 INFO  TC_NC_008:71 - Entered credentials and attempted login.
-2025-03-26 12:50:27 INFO  TC_NC_008:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:50:29 INFO  TC_NC_008:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:50:29 INFO  TC_NC_008:10 - Validating error message when Address contains special characters
-2025-03-26 12:50:29 INFO  TC_NC_008:14 - Entered Address with special characters
-2025-03-26 12:50:29 INFO  TC_NC_008:18 - Captured error message: 'Special characters are not allowed'
-2025-03-26 12:50:29 INFO  TC_NC_008:22 - Error message verified successfully.
-2025-03-26 12:50:30 INFO  TC_NC_008:96 - Test execution completed. Browser closed.
-2025-03-26 12:50:30 INFO  TC_NC_009:46 - Initializing test setup...
-2025-03-26 12:50:30 INFO  TC_NC_009:52 - Configuration file loaded successfully.
-2025-03-26 12:50:31 INFO  TC_NC_009:59 - WebDriver initialized successfully.
-2025-03-26 12:50:37 INFO  TC_NC_009:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:50:39 INFO  TC_NC_009:71 - Entered credentials and attempted login.
-2025-03-26 12:50:40 INFO  TC_NC_009:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:50:41 INFO  TC_NC_009:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:50:41 INFO  TC_NC_009:10 - Validating error message when City contains special characters
-2025-03-26 12:50:41 INFO  TC_NC_009:14 - Entered City with special characters
-2025-03-26 12:50:41 INFO  TC_NC_009:18 - Captured error message: 'Special characters are not allowed'
-2025-03-26 12:50:41 INFO  TC_NC_009:22 - Error message verified successfully.
-2025-03-26 12:50:41 INFO  TC_NC_009:96 - Test execution completed. Browser closed.
-2025-03-26 12:50:42 INFO  TC_NC_010:46 - Initializing test setup...
-2025-03-26 12:50:42 INFO  TC_NC_010:52 - Configuration file loaded successfully.
-2025-03-26 12:50:43 INFO  TC_NC_010:59 - WebDriver initialized successfully.
-2025-03-26 12:50:49 INFO  TC_NC_010:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:50:51 INFO  TC_NC_010:71 - Entered credentials and attempted login.
-2025-03-26 12:50:51 INFO  TC_NC_010:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:50:54 INFO  TC_NC_010:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:50:54 INFO  TC_NC_010:10 - Validating error message for empty City field
-2025-03-26 12:50:55 INFO  TC_NC_010:14 - Entered an empty value in City field
-2025-03-26 12:50:55 INFO  TC_NC_010:18 - Moved to the next field (Gender selected) to trigger validation
-2025-03-26 12:50:55 INFO  TC_NC_010:21 - Captured error message: 'City Field must not be blank'
-2025-03-26 12:50:55 INFO  TC_NC_010:25 - Error message verified successfully.
-2025-03-26 12:50:55 INFO  TC_NC_010:96 - Test execution completed. Browser closed.
-2025-03-26 12:50:55 INFO  TC_NC_011:46 - Initializing test setup...
-2025-03-26 12:50:55 INFO  TC_NC_011:52 - Configuration file loaded successfully.
-2025-03-26 12:50:57 INFO  TC_NC_011:59 - WebDriver initialized successfully.
-2025-03-26 12:51:03 INFO  TC_NC_011:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:51:06 INFO  TC_NC_011:71 - Entered credentials and attempted login.
-2025-03-26 12:51:06 INFO  TC_NC_011:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:51:07 INFO  TC_NC_011:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:51:08 INFO  TC_NC_011:15 - Captured Error Message: Numbers are not allowed
-2025-03-26 12:51:08 INFO  TC_NC_011:19 - Error message verified successfully.
-2025-03-26 12:51:08 INFO  TC_NC_011:96 - Test execution completed. Browser closed.
-2025-03-26 12:51:08 INFO  TC_NC_012:46 - Initializing test setup...
-2025-03-26 12:51:08 INFO  TC_NC_012:52 - Configuration file loaded successfully.
-2025-03-26 12:51:09 INFO  TC_NC_012:59 - WebDriver initialized successfully.
-2025-03-26 12:51:15 INFO  TC_NC_012:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:51:17 INFO  TC_NC_012:71 - Entered credentials and attempted login.
-2025-03-26 12:51:17 INFO  TC_NC_012:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:51:19 INFO  TC_NC_012:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:51:19 INFO  TC_NC_012:15 - Captured Error Message: First character can not have space
-2025-03-26 12:51:19 INFO  TC_NC_012:19 - Error message verified successfully.
-2025-03-26 12:51:19 INFO  TC_NC_012:96 - Test execution completed. Browser closed.
-2025-03-26 12:51:19 INFO  TC_NC_013:46 - Initializing test setup...
-2025-03-26 12:51:19 INFO  TC_NC_013:52 - Configuration file loaded successfully.
-2025-03-26 12:51:21 INFO  TC_NC_013:59 - WebDriver initialized successfully.
-2025-03-26 12:51:27 INFO  TC_NC_013:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:51:33 INFO  TC_NC_013:71 - Entered credentials and attempted login.
-2025-03-26 12:51:34 INFO  TC_NC_013:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:51:37 INFO  TC_NC_013:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:51:37 INFO  TC_NC_013:15 - Captured Error Message: Numbers are not allowed
-2025-03-26 12:51:37 INFO  TC_NC_013:19 - Error message verified successfully
-2025-03-26 12:51:38 INFO  TC_NC_013:96 - Test execution completed. Browser closed.
-2025-03-26 12:51:38 INFO  TC_NC_014:46 - Initializing test setup...
-2025-03-26 12:51:38 INFO  TC_NC_014:52 - Configuration file loaded successfully.
-2025-03-26 12:51:39 INFO  TC_NC_014:59 - WebDriver initialized successfully.
-2025-03-26 12:51:57 INFO  TC_NC_014:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:52:03 INFO  TC_NC_014:71 - Entered credentials and attempted login.
-2025-03-26 12:52:03 INFO  TC_NC_014:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:52:06 INFO  TC_NC_014:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:52:06 INFO  TC_NC_014:11 - Entering an empty value into the State field
-2025-03-26 12:52:06 INFO  TC_NC_014:15 - Moved to another field to trigger validation
-2025-03-26 12:52:06 INFO  TC_NC_014:19 - Captured Error Message: State must not be blank
-2025-03-26 12:52:06 INFO  TC_NC_014:23 - Error message verified successfully
-2025-03-26 12:52:07 INFO  TC_NC_014:96 - Test execution completed. Browser closed.
-2025-03-26 12:52:07 INFO  TC_NC_015:46 - Initializing test setup...
-2025-03-26 12:52:07 INFO  TC_NC_015:52 - Configuration file loaded successfully.
-2025-03-26 12:52:08 INFO  TC_NC_015:59 - WebDriver initialized successfully.
-2025-03-26 12:52:17 INFO  TC_NC_015:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:52:25 INFO  TC_NC_015:71 - Entered credentials and attempted login.
-2025-03-26 12:52:26 INFO  TC_NC_015:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:52:27 INFO  TC_NC_015:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:52:27 INFO  TC_NC_015:11 - Entering special characters into the State field
-2025-03-26 12:52:28 INFO  TC_NC_015:16 - Captured Error Message: Special characters are not allowed
-2025-03-26 12:52:28 INFO  TC_NC_015:20 - Error message verified successfully
-2025-03-26 12:52:28 INFO  TC_NC_015:96 - Test execution completed. Browser closed.
-2025-03-26 12:52:28 INFO  TC_NC_016:46 - Initializing test setup...
-2025-03-26 12:52:28 INFO  TC_NC_016:52 - Configuration file loaded successfully.
-2025-03-26 12:52:30 INFO  TC_NC_016:59 - WebDriver initialized successfully.
-2025-03-26 12:52:36 INFO  TC_NC_016:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:52:38 INFO  TC_NC_016:71 - Entered credentials and attempted login.
-2025-03-26 12:52:39 INFO  TC_NC_016:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:52:41 INFO  TC_NC_016:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:52:41 INFO  TC_NC_016:11 - Entering a state name with a leading space to validate error handling
-2025-03-26 12:52:41 INFO  TC_NC_016:16 - Captured Error Message: First character can not have space
-2025-03-26 12:52:41 INFO  TC_NC_016:20 - Error message verified successfully
-2025-03-26 12:52:42 INFO  TC_NC_016:96 - Test execution completed. Browser closed.
-2025-03-26 12:52:42 INFO  TC_NC_017:46 - Initializing test setup...
-2025-03-26 12:52:42 INFO  TC_NC_017:52 - Configuration file loaded successfully.
-2025-03-26 12:52:43 INFO  TC_NC_017:59 - WebDriver initialized successfully.
-2025-03-26 12:52:49 INFO  TC_NC_017:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:52:51 INFO  TC_NC_017:71 - Entered credentials and attempted login.
-2025-03-26 12:52:51 INFO  TC_NC_017:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:52:52 INFO  TC_NC_017:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:52:52 INFO  TC_NC_017:11 - Entering alphabetic characters in the PIN field to validate error handling.
-2025-03-26 12:52:52 INFO  TC_NC_017:16 - Captured Error Message: Characters are not allowed
-2025-03-26 12:52:52 INFO  TC_NC_017:20 - Error message verified successfully.
-2025-03-26 12:52:53 INFO  TC_NC_017:96 - Test execution completed. Browser closed.
-2025-03-26 12:52:53 INFO  TC_NC_018:46 - Initializing test setup...
-2025-03-26 12:52:53 INFO  TC_NC_018:52 - Configuration file loaded successfully.
-2025-03-26 12:52:54 INFO  TC_NC_018:59 - WebDriver initialized successfully.
-2025-03-26 12:52:59 INFO  TC_NC_018:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:53:02 INFO  TC_NC_018:71 - Entered credentials and attempted login.
-2025-03-26 12:53:02 INFO  TC_NC_018:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:53:05 INFO  TC_NC_018:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:53:05 INFO  TC_NC_018:11 - Entering an empty value into the PIN field to validate error handling.
-2025-03-26 12:53:05 INFO  TC_NC_018:18 - Captured Error Message: PIN Code must not be blank
-2025-03-26 12:53:05 INFO  TC_NC_018:22 - Error message verified successfully.
-2025-03-26 12:53:06 INFO  TC_NC_018:96 - Test execution completed. Browser closed.
-2025-03-26 12:53:06 INFO  TC_NC_019:46 - Initializing test setup...
-2025-03-26 12:53:06 INFO  TC_NC_019:52 - Configuration file loaded successfully.
-2025-03-26 12:53:07 INFO  TC_NC_019:59 - WebDriver initialized successfully.
-2025-03-26 12:53:12 INFO  TC_NC_019:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:53:14 INFO  TC_NC_019:71 - Entered credentials and attempted login.
-2025-03-26 12:53:14 INFO  TC_NC_019:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:53:16 INFO  TC_NC_019:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:53:16 INFO  TC_NC_019:11 - Entering special characters into the PIN field to validate error handling.
-2025-03-26 12:53:16 INFO  TC_NC_019:16 - Captured Error Message: Special characters are not allowed
-2025-03-26 12:53:16 INFO  TC_NC_019:20 - Error message verified successfully.
-2025-03-26 12:53:17 INFO  TC_NC_019:96 - Test execution completed. Browser closed.
-2025-03-26 12:53:17 INFO  TC_NC_020:46 - Initializing test setup...
-2025-03-26 12:53:17 INFO  TC_NC_020:52 - Configuration file loaded successfully.
-2025-03-26 12:53:18 INFO  TC_NC_020:59 - WebDriver initialized successfully.
-2025-03-26 12:53:24 INFO  TC_NC_020:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:53:26 INFO  TC_NC_020:71 - Entered credentials and attempted login.
-2025-03-26 12:53:26 INFO  TC_NC_020:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:53:28 INFO  TC_NC_020:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:53:28 INFO  TC_NC_020:12 - Entering invalid PIN (5 digits) into the PIN field: 18441
-2025-03-26 12:53:28 INFO  TC_NC_020:18 - Captured Error Message: PIN Code must have 6 Digits
-2025-03-26 12:53:28 INFO  TC_NC_020:22 - Error message verified successfully.
-2025-03-26 12:53:28 INFO  TC_NC_020:96 - Test execution completed. Browser closed.
-2025-03-26 12:53:28 INFO  TC_NC_021:46 - Initializing test setup...
-2025-03-26 12:53:28 INFO  TC_NC_021:52 - Configuration file loaded successfully.
-2025-03-26 12:53:30 INFO  TC_NC_021:59 - WebDriver initialized successfully.
-2025-03-26 12:53:35 INFO  TC_NC_021:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:53:38 INFO  TC_NC_021:71 - Entered credentials and attempted login.
-2025-03-26 12:53:38 INFO  TC_NC_021:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:53:39 INFO  TC_NC_021:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:53:39 INFO  TC_NC_021:12 - Entering invalid PIN with leading space: ' 14312'
-2025-03-26 12:53:39 INFO  TC_NC_021:18 - Captured Error Message: 'First character can not have space'
-2025-03-26 12:53:39 INFO  TC_NC_021:22 - Error message verified successfully.
-2025-03-26 12:53:40 INFO  TC_NC_021:96 - Test execution completed. Browser closed.
-2025-03-26 12:53:40 INFO  TC_NC_022:46 - Initializing test setup...
-2025-03-26 12:53:40 INFO  TC_NC_022:52 - Configuration file loaded successfully.
-2025-03-26 12:53:41 INFO  TC_NC_022:59 - WebDriver initialized successfully.
-2025-03-26 12:53:47 INFO  TC_NC_022:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:53:49 INFO  TC_NC_022:71 - Entered credentials and attempted login.
-2025-03-26 12:53:49 INFO  TC_NC_022:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:53:50 INFO  TC_NC_022:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:53:50 INFO  TC_NC_022:11 - Entering empty Telephone Number...
-2025-03-26 12:53:51 INFO  TC_NC_022:18 - Captured Error Message: 'Mobile no must not be blank'
-2025-03-26 12:53:51 INFO  TC_NC_022:22 - Error message verified successfully.
-2025-03-26 12:53:51 INFO  TC_NC_022:96 - Test execution completed. Browser closed.
-2025-03-26 12:53:51 INFO  TC_NC_023:46 - Initializing test setup...
-2025-03-26 12:53:51 INFO  TC_NC_023:52 - Configuration file loaded successfully.
-2025-03-26 12:53:53 INFO  TC_NC_023:59 - WebDriver initialized successfully.
-2025-03-26 12:53:59 INFO  TC_NC_023:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:54:04 INFO  TC_NC_023:71 - Entered credentials and attempted login.
-2025-03-26 12:54:04 INFO  TC_NC_023:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:54:07 INFO  TC_NC_023:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:54:07 INFO  TC_NC_023:11 - Entering special characters into Telephone Number field...
-2025-03-26 12:54:07 INFO  TC_NC_023:16 - Captured Error Message: 'Special characters are not allowed'
-2025-03-26 12:54:07 INFO  TC_NC_023:20 - Error message verified successfully.
-2025-03-26 12:54:07 INFO  TC_NC_023:96 - Test execution completed. Browser closed.
-2025-03-26 12:54:07 INFO  TC_NC_024:46 - Initializing test setup...
-2025-03-26 12:54:07 INFO  TC_NC_024:52 - Configuration file loaded successfully.
-2025-03-26 12:54:09 INFO  TC_NC_024:59 - WebDriver initialized successfully.
-2025-03-26 12:54:22 INFO  TC_NC_024:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:54:26 INFO  TC_NC_024:71 - Entered credentials and attempted login.
-2025-03-26 12:54:27 INFO  TC_NC_024:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:54:29 INFO  TC_NC_024:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:54:29 INFO  TC_NC_024:11 - Entering alphabetic characters into Telephone Number field...
-2025-03-26 12:54:30 INFO  TC_NC_024:16 - Captured Error Message: 'Characters are not allowed'
-2025-03-26 12:54:30 INFO  TC_NC_024:20 - Error message verified successfully.
-2025-03-26 12:54:30 INFO  TC_NC_024:96 - Test execution completed. Browser closed.
-2025-03-26 12:54:30 INFO  TC_NC_025:46 - Initializing test setup...
-2025-03-26 12:54:30 INFO  TC_NC_025:52 - Configuration file loaded successfully.
-2025-03-26 12:54:32 INFO  TC_NC_025:59 - WebDriver initialized successfully.
-2025-03-26 12:54:36 INFO  TC_NC_025:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:54:39 INFO  TC_NC_025:71 - Entered credentials and attempted login.
-2025-03-26 12:54:40 INFO  TC_NC_025:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:54:41 INFO  TC_NC_025:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:54:41 INFO  TC_NC_025:11 - Entering mobile number with a leading space...
-2025-03-26 12:54:42 INFO  TC_NC_025:16 - Captured Error Message: 'First character can not have space'
-2025-03-26 12:54:42 INFO  TC_NC_025:20 - Error message verification passed successfully.
-2025-03-26 12:54:42 INFO  TC_NC_025:96 - Test execution completed. Browser closed.
-2025-03-26 12:54:42 INFO  TC_NC_026:46 - Initializing test setup...
-2025-03-26 12:54:42 INFO  TC_NC_026:52 - Configuration file loaded successfully.
-2025-03-26 12:54:44 INFO  TC_NC_026:59 - WebDriver initialized successfully.
-2025-03-26 12:54:51 INFO  TC_NC_026:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:54:57 INFO  TC_NC_026:71 - Entered credentials and attempted login.
-2025-03-26 12:54:57 INFO  TC_NC_026:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:55:01 INFO  TC_NC_026:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:55:01 INFO  TC_NC_026:11 - Entering an email ID with a leading space...
-2025-03-26 12:55:01 INFO  TC_NC_026:17 - Captured Error Message: 'First character can not have space'
-2025-03-26 12:55:01 INFO  TC_NC_026:21 - Error message verification passed successfully.
-2025-03-26 12:55:02 INFO  TC_NC_026:96 - Test execution completed. Browser closed.
-2025-03-26 12:55:02 INFO  TC_NC_027:46 - Initializing test setup...
-2025-03-26 12:55:02 INFO  TC_NC_027:52 - Configuration file loaded successfully.
-2025-03-26 12:55:03 INFO  TC_NC_027:59 - WebDriver initialized successfully.
-2025-03-26 12:55:22 INFO  TC_NC_027:64 - Application launched: https://demo.guru99.com/V2/ 
-2025-03-26 12:55:30 INFO  TC_NC_027:71 - Entered credentials and attempted login.
-2025-03-26 12:55:30 INFO  TC_NC_027:79 - Login successful. Navigated to Home Page.
-2025-03-26 12:55:34 INFO  TC_NC_027:88 - Successfully navigated to 'Add New Customer' page.
-2025-03-26 12:55:34 INFO  TC_NC_027:12 - Entering an empty Email ID...
-2025-03-26 12:55:34 INFO  TC_NC_027:18 - Captured Error Message: 'Email-ID must not be blank'
-2025-03-26 12:55:34 INFO  TC_NC_027:22 - Error message verification passed successfully.
-2025-03-26 12:55:35 INFO  TC_NC_027:96 - Test execution completed. Browser closed.
+2025-03-26 15:36:45 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [D:\Automation\org.bank.demo\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-03-26 15:36:45 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation\org.bank.demo\testng.xml
+
+2025-03-26 15:36:46 INFO  TC_NC_026:46 - Initializing test setup...
+2025-03-26 15:36:46 INFO  TC_NC_026:52 - Configuration file loaded successfully.
+2025-03-26 15:36:49 INFO  TC_NC_026:59 - WebDriver initialized successfully.
+2025-03-26 15:36:52 INFO  TC_NC_026:64 - Application launched: https://demo.guru99.com/V2/ 
+2025-03-26 15:36:53 INFO  TC_NC_026:71 - Entered credentials and attempted login.
+2025-03-26 15:36:54 INFO  TC_NC_026:79 - Login successful. Navigated to Home Page.
+2025-03-26 15:36:55 INFO  TC_NC_026:88 - Successfully navigated to 'Add New Customer' page.
+2025-03-26 15:36:55 INFO  TC_NC_026:11 - Entering an email ID with a leading space...
+2025-03-26 15:36:55 INFO  TC_NC_026:17 - Captured Error Message: 'First character can not have space'
+2025-03-26 15:36:55 INFO  TC_NC_026:21 - Error message verification passed successfully.
+2025-03-26 15:36:56 INFO  TC_NC_026:96 - Test execution completed. Browser closed.
+2025-03-26 15:36:56 INFO  TC_NC_027:46 - Initializing test setup...
+2025-03-26 15:36:56 INFO  TC_NC_027:52 - Configuration file loaded successfully.
+2025-03-26 15:36:58 INFO  TC_NC_027:59 - WebDriver initialized successfully.
+2025-03-26 15:37:00 INFO  TC_NC_027:64 - Application launched: https://demo.guru99.com/V2/ 
+2025-03-26 15:37:01 INFO  TC_NC_027:71 - Entered credentials and attempted login.
+2025-03-26 15:37:01 INFO  TC_NC_027:79 - Login successful. Navigated to Home Page.
+2025-03-26 15:37:03 INFO  TC_NC_027:88 - Successfully navigated to 'Add New Customer' page.
+2025-03-26 15:37:03 INFO  TC_NC_027:12 - Entering an empty Email ID...
+2025-03-26 15:37:04 INFO  TC_NC_027:33 -  Error message verification PASSED successfully.
+2025-03-26 15:37:04 INFO  TC_NC_027:96 - Test execution completed. Browser closed.
+2025-03-26 15:37:39 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [D:\Automation\org.bank.demo\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-03-26 15:37:39 INFO  Utils:112 - [TestNG] Running:
+  D:\Automation\org.bank.demo\testng.xml
+
+2025-03-26 15:37:40 INFO  TC_NC_026:46 - Initializing test setup...
+2025-03-26 15:37:40 INFO  TC_NC_026:52 - Configuration file loaded successfully.
+2025-03-26 15:37:43 INFO  TC_NC_026:59 - WebDriver initialized successfully.
+2025-03-26 15:37:45 INFO  TC_NC_026:64 - Application launched: https://demo.guru99.com/V2/ 
+2025-03-26 15:37:47 INFO  TC_NC_026:71 - Entered credentials and attempted login.
+2025-03-26 15:37:47 INFO  TC_NC_026:79 - Login successful. Navigated to Home Page.
+2025-03-26 15:37:48 INFO  TC_NC_026:88 - Successfully navigated to 'Add New Customer' page.
+2025-03-26 15:37:48 INFO  TC_NC_026:11 - Entering an email ID with a leading space...
+2025-03-26 15:37:49 INFO  TC_NC_026:17 - Captured Error Message: 'First character can not have space'
+2025-03-26 15:37:49 INFO  TC_NC_026:21 - Error message verification passed successfully.
+2025-03-26 15:37:50 INFO  TC_NC_026:96 - Test execution completed. Browser closed.
+2025-03-26 15:37:50 INFO  TC_NC_027:46 - Initializing test setup...
+2025-03-26 15:37:50 INFO  TC_NC_027:52 - Configuration file loaded successfully.
+2025-03-26 15:37:52 INFO  TC_NC_027:59 - WebDriver initialized successfully.
+2025-03-26 15:37:54 INFO  TC_NC_027:64 - Application launched: https://demo.guru99.com/V2/ 
+2025-03-26 15:37:56 INFO  TC_NC_027:71 - Entered credentials and attempted login.
+2025-03-26 15:37:56 INFO  TC_NC_027:79 - Login successful. Navigated to Home Page.
+2025-03-26 15:37:57 INFO  TC_NC_027:88 - Successfully navigated to 'Add New Customer' page.
+2025-03-26 15:37:57 INFO  TC_NC_027:12 - Entering an empty Email ID...
+2025-03-26 15:37:58 ERROR TC_NC_027:25 -  ERROR MESSAGE MISMATCH 
+2025-03-26 15:37:58 ERROR TC_NC_027:26 -   Expected: 'Emil-ID must not be blank'
+2025-03-26 15:37:58 ERROR TC_NC_027:27 -   Actual:   'Email-ID must not be blank'
+2025-03-26 15:37:58 INFO  TC_NC_027:96 - Test execution completed. Browser closed.
