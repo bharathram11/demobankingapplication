@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name="Suite" parallel="classes" thread-count="4">
+<suite name="Suite" >   <!--use this if you need to run parallel parallel="classes" thread-count="4"-->
 	<listeners>
 		<listener class-name="utilities.ExtentReportManager" />
 	</listeners>
 	<test name="Test">
 		<classes>
-			<!--<class name="tests.TC_NC_001" />
+			<class name="tests.TC_NC_001" />
 			<class name="tests.TC_NC_002" />
 			<class name="tests.TC_NC_003" />
 			<class name="tests.TC_NC_004" />
@@ -29,7 +29,7 @@
 			<class name="tests.TC_NC_022" />
 			<class name="tests.TC_NC_023" />
 			<class name="tests.TC_NC_024" />
-			<class name="tests.TC_NC_025" />-->
+			<class name="tests.TC_NC_025" />
 			<class name="tests.TC_NC_026" />
 			<class name="tests.TC_NC_027" />
 			<class name="tests.TC_NC_028" />
