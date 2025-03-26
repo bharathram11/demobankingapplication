@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="classes" thread-count="4">
+	<listeners>
+		<listener class-name="utilities.ExtentReportManager" />
+	</listeners>
+	<test name="Test">
+		<classes>
+			<!--<class name="tests.TC_NC_001" />
+			<class name="tests.TC_NC_002" />
+			<class name="tests.TC_NC_003" />
+			<class name="tests.TC_NC_004" />
+			<class name="tests.TC_NC_005" />
+			<class name="tests.TC_NC_006" />
+			<class name="tests.TC_NC_007" />
+			<class name="tests.TC_NC_008" />
+			<class name="tests.TC_NC_009" />
+			<class name="tests.TC_NC_010" />
+			<class name="tests.TC_NC_011" />
+			<class name="tests.TC_NC_012" />
+			<class name="tests.TC_NC_013" />
+			<class name="tests.TC_NC_014" />
+			<class name="tests.TC_NC_015" />
+			<class name="tests.TC_NC_016" />
+			<class name="tests.TC_NC_017" />
+			<class name="tests.TC_NC_018" />
+			<class name="tests.TC_NC_019" />
+			<class name="tests.TC_NC_020" />
+			<class name="tests.TC_NC_021" />
+			<class name="tests.TC_NC_022" />
+			<class name="tests.TC_NC_023" />
+			<class name="tests.TC_NC_024" />
+			<class name="tests.TC_NC_025" />-->
+			<class name="tests.TC_NC_026" />
+			<class name="tests.TC_NC_027" />
+			<class name="tests.TC_NC_028" />
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->

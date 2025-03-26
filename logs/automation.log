@@ -1,0 +1,451 @@
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:01:16 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\bhara\AppData\Local\Temp\testng-eclipse-1030641978\testng-customsuite.xml
+
+2025-03-26 12:01:16 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-03-26 12:01:16 INFO  TC_NC_001:46 - Initializing test setup...
+2025-03-26 12:01:16 INFO  TC_NC_001:52 - Configuration file loaded successfully.
+2025-03-26 12:01:17 INFO  TC_NC_001:59 - WebDriver initialized successfully.
+2025-03-26 12:01:19 INFO  TC_NC_001:64 - Application launched: https://demo.guru99.com/V2/ 
+2025-03-26 12:01:20 INFO  TC_NC_001:71 - Entered credentials and attempted login.
+2025-03-26 12:01:21 INFO  TC_NC_001:79 - Login successful. Navigated to Home Page.
+2025-03-26 12:01:21 INFO  TC_NC_001:88 - Successfully navigated to 'Add New Customer' page.
+2025-03-26 12:01:21 INFO  TC_NC_001:10 - Navigating to Add New Customer page
+2025-03-26 12:01:21 INFO  TC_NC_001:15 - Entered Customer Name: uDwmI
+2025-03-26 12:01:22 INFO  TC_NC_001:18 - Selected Gender: Male
+2025-03-26 12:01:22 INFO  TC_NC_001:22 - Entered Date of Birth: 26-03-2025
+2025-03-26 12:01:22 INFO  TC_NC_001:26 - Entered Address: rzNEH
+2025-03-26 12:01:22 INFO  TC_NC_001:30 - Entered City: yrQae
+2025-03-26 12:01:22 INFO  TC_NC_001:34 - Entered State: FKNSU
+2025-03-26 12:01:22 INFO  TC_NC_001:38 - Entered PIN: 184440
+2025-03-26 12:01:22 INFO  TC_NC_001:42 - Entered Mobile Number: 8584302954
+2025-03-26 12:01:22 INFO  TC_NC_001:46 - Entered Email ID: dzGxr@gmail.com
+2025-03-26 12:01:23 INFO  TC_NC_001:49 - Clicked on Submit button
+2025-03-26 12:01:23 INFO  TC_NC_001:59 - Alert Text: Customer added successfully !!!.
+ Generated Customer ID: 22591
+2025-03-26 12:01:23 INFO  TC_NC_001:63 - Success alert verified: Customer added successfully.
+2025-03-26 12:01:23 INFO  TC_NC_001:71 - Accepted success alert.
+2025-03-26 12:01:23 INFO  TC_NC_001:96 - Test execution completed. Browser closed.
+2025-03-26 12:01:23 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@62a4417: 29 ms
+2025-03-26 12:01:23 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@42d73c61: 75 ms
+2025-03-26 12:01:23 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@5a8cbffe: 1 ms
+2025-03-26 12:01:23 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@68fe48d7: 10 ms
+2025-03-26 12:01:23 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@10ef5fa0: 8 ms
+2025-03-26 12:01:23 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@719d35e8: 5 ms
+2025-03-26 12:01:23 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2f651f93: 0 ms
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:02:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\bhara\AppData\Local\Temp\testng-eclipse--113046292\testng-customsuite.xml
+
+2025-03-26 12:02:57 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2025-03-26 12:02:57 INFO  TC_NC_001:46 - Initializing test setup...
+2025-03-26 12:02:57 INFO  TC_NC_001:52 - Configuration file loaded successfully.
+2025-03-26 12:02:59 INFO  TC_NC_001:59 - WebDriver initialized successfully.
+2025-03-26 12:03:00 INFO  TC_NC_001:64 - Application launched: https://demo.guru99.com/V2/ 
+2025-03-26 12:03:01 INFO  TC_NC_001:71 - Entered credentials and attempted login.
+2025-03-26 12:03:02 INFO  TC_NC_001:79 - Login successful. Navigated to Home Page.
+2025-03-26 12:03:02 INFO  TC_NC_001:88 - Successfully navigated to 'Add New Customer' page.
+2025-03-26 12:03:02 INFO  TC_NC_001:10 - Navigating to Add New Customer page
+2025-03-26 12:03:03 INFO  TC_NC_001:15 - Entered Customer Name: yjCuN
+2025-03-26 12:03:03 INFO  TC_NC_001:18 - Selected Gender: Male
+2025-03-26 12:03:03 INFO  TC_NC_001:22 - Entered Date of Birth: 26-03-2025
+2025-03-26 12:03:03 INFO  TC_NC_001:26 - Entered Address: WYJaq
+2025-03-26 12:03:03 INFO  TC_NC_001:30 - Entered City: RDjlx
+2025-03-26 12:03:03 INFO  TC_NC_001:34 - Entered State: liHuI
+2025-03-26 12:03:03 INFO  TC_NC_001:38 - Entered PIN: 932752
+2025-03-26 12:03:03 INFO  TC_NC_001:42 - Entered Mobile Number: 2694346139
+2025-03-26 12:03:03 INFO  TC_NC_001:46 - Entered Email ID: AViBW@gmail.com
+2025-03-26 12:03:04 INFO  TC_NC_001:49 - Clicked on Submit button
+2025-03-26 12:03:04 INFO  TC_NC_001:59 - Alert Text: Customer added successfully !!!.
+ Generated Customer ID: 22477
+2025-03-26 12:03:04 INFO  TC_NC_001:71 - Accepted success alert.
+2025-03-26 12:03:04 INFO  TC_NC_001:96 - Test execution completed. Browser closed.
+2025-03-26 12:03:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@7cb8437d: 34 ms
+2025-03-26 12:03:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@7c129ef6: 77 ms
+2025-03-26 12:03:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@42d73c61: 1 ms
+2025-03-26 12:03:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@5a82ebf8: 12 ms
+2025-03-26 12:03:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5b275174: 7 ms
+2025-03-26 12:03:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@571a9686: 9 ms
+2025-03-26 12:03:04 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@719d35e8: 0 ms
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:03:57 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\bhara\AppData\Local\Temp\testng-eclipse--1118551699\testng-customsuite.xml
+
+2025-03-26 12:03:57 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2025-03-26 12:03:57 INFO  TC_NC_001:46 - Initializing test setup...
+2025-03-26 12:03:57 INFO  TC_NC_001:52 - Configuration file loaded successfully.
+2025-03-26 12:03:59 INFO  TC_NC_001:59 - WebDriver initialized successfully.
+2025-03-26 12:04:00 INFO  TC_NC_001:64 - Application launched: https://demo.guru99.com/V2/ 
+2025-03-26 12:04:02 INFO  TC_NC_001:71 - Entered credentials and attempted login.
+2025-03-26 12:04:02 INFO  TC_NC_001:79 - Login successful. Navigated to Home Page.
+2025-03-26 12:04:03 INFO  TC_NC_001:88 - Successfully navigated to 'Add New Customer' page.
+2025-03-26 12:04:03 INFO  TC_NC_001:10 - Navigating to Add New Customer page
+2025-03-26 12:04:03 INFO  TC_NC_001:15 - Entered Customer Name: FPANu
+2025-03-26 12:04:03 INFO  TC_NC_001:18 - Selected Gender: Male
+2025-03-26 12:04:04 INFO  TC_NC_001:22 - Entered Date of Birth: 26-03-2025
+2025-03-26 12:04:04 INFO  TC_NC_001:26 - Entered Address: MPWNo
+2025-03-26 12:04:04 INFO  TC_NC_001:30 - Entered City: WpgZh
+2025-03-26 12:04:04 INFO  TC_NC_001:34 - Entered State: NSgmq
+2025-03-26 12:04:04 INFO  TC_NC_001:38 - Entered PIN: 406747
+2025-03-26 12:04:04 INFO  TC_NC_001:42 - Entered Mobile Number: 0765829369
+2025-03-26 12:04:04 INFO  TC_NC_001:46 - Entered Email ID: FnXtz@gmail.com
+2025-03-26 12:04:04 ERROR TC_NC_001:73 - No success alert appeared. Possible form submission failure.
+org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.118)
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [767ccba9dc8cb84ded75a398ce40f18b, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.118, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\bhara\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57506}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57506/devtoo..., se:cdpVersion: 134.0.6998.118, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 767ccba9dc8cb84ded75a398ce40f18b
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:622) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator.alert(RemoteWebDriver.java:1194) ~[selenium-remote-driver-4.30.0.jar:?]
+	at tests.TC_NC_001.verifySuccessAlert(TC_NC_001.java:58) ~[test-classes/:?]
+	at tests.TC_NC_001.newCustomerAdding(TC_NC_001.java:52) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-03-26 12:04:06 INFO  TC_NC_001:96 - Test execution completed. Browser closed.
+2025-03-26 12:04:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@63bde6c2: 25 ms
+2025-03-26 12:04:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@2cc04358: 57 ms
+2025-03-26 12:04:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@27a97e08: 27 ms
+2025-03-26 12:04:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@5cb042da: 21 ms
+2025-03-26 12:04:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1ff55ff: 6 ms
+2025-03-26 12:04:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2009f9b0: 8 ms
+2025-03-26 12:04:06 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@50d951e7: 0 ms
+2025-03-26 12:05:27 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\bhara\AppData\Local\Temp\testng-eclipse-1559254674\testng-customsuite.xml"
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:05:27 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\bhara\AppData\Local\Temp\testng-eclipse-1559254674\testng-customsuite.xml
+
+2025-03-26 12:05:27 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-03-26 12:05:27 INFO  TC_NC_001:46 - Initializing test setup...
+2025-03-26 12:05:27 INFO  TC_NC_001:52 - Configuration file loaded successfully.
+2025-03-26 12:05:29 INFO  TC_NC_001:59 - WebDriver initialized successfully.
+2025-03-26 12:05:31 INFO  TC_NC_001:64 - Application launched: https://demo.guru99.com/V2/ 
+2025-03-26 12:05:32 INFO  TC_NC_001:71 - Entered credentials and attempted login.
+2025-03-26 12:05:32 INFO  TC_NC_001:79 - Login successful. Navigated to Home Page.
+2025-03-26 12:05:33 INFO  TC_NC_001:88 - Successfully navigated to 'Add New Customer' page.
+2025-03-26 12:05:33 INFO  TC_NC_001:10 - Navigating to Add New Customer page
+2025-03-26 12:05:33 INFO  TC_NC_001:15 - Entered Customer Name: NCGzu
+2025-03-26 12:05:33 INFO  TC_NC_001:18 - Selected Gender: Male
+2025-03-26 12:05:33 INFO  TC_NC_001:22 - Entered Date of Birth: 26-03-2025
+2025-03-26 12:05:33 INFO  TC_NC_001:26 - Entered Address: XBAMk
+2025-03-26 12:05:33 INFO  TC_NC_001:30 - Entered City: gsoVm
+2025-03-26 12:05:34 INFO  TC_NC_001:34 - Entered State: GpbfE
+2025-03-26 12:05:34 INFO  TC_NC_001:38 - Entered PIN: 632576
+2025-03-26 12:05:34 INFO  TC_NC_001:42 - Entered Mobile Number: 7121366185
+2025-03-26 12:05:34 INFO  TC_NC_001:46 - Entered Email ID: skiLs@gmail.com
+2025-03-26 12:05:34 INFO  TC_NC_001:49 - Clicked on Submit button
+2025-03-26 12:05:34 INFO  TC_NC_001:59 - Alert Text: Customer added successfully !!!.
+ Generated Customer ID: 39051
+2025-03-26 12:05:34 INFO  TC_NC_001:63 - Success alert verified: Customer added successfully.
+2025-03-26 12:05:34 INFO  TC_NC_001:71 - Accepted success alert.
+2025-03-26 12:05:34 INFO  TC_NC_001:96 - Test execution completed. Browser closed.
+2025-03-26 12:05:35 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@7cb8437d: 53 ms
+2025-03-26 12:05:35 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@7c129ef6: 88 ms
+2025-03-26 12:05:35 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@42d73c61: 1 ms
+2025-03-26 12:05:35 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@5a82ebf8: 12 ms
+2025-03-26 12:05:35 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5b275174: 7 ms
+2025-03-26 12:05:35 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@571a9686: 6 ms
+2025-03-26 12:05:35 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@719d35e8: 0 ms
+2025-03-26 12:07:15 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\bhara\AppData\Local\Temp\testng-eclipse--2005289000\testng-customsuite.xml"
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-26 12:07:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\bhara\AppData\Local\Temp\testng-eclipse--2005289000\testng-customsuite.xml
+
+2025-03-26 12:07:15 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+2025-03-26 12:07:15 INFO  TC_NC_001:46 - Initializing test setup...
+2025-03-26 12:07:15 INFO  TC_NC_001:52 - Configuration file loaded successfully.
+2025-03-26 12:07:17 INFO  TC_NC_001:59 - WebDriver initialized successfully.
+2025-03-26 12:07:19 INFO  TC_NC_001:64 - Application launched: https://demo.guru99.com/V2/ 
+2025-03-26 12:07:21 INFO  TC_NC_001:71 - Entered credentials and attempted login.
+2025-03-26 12:07:21 INFO  TC_NC_001:79 - Login successful. Navigated to Home Page.
+2025-03-26 12:07:22 INFO  TC_NC_001:88 - Successfully navigated to 'Add New Customer' page.
+2025-03-26 12:07:22 INFO  TC_NC_001:10 - Navigating to Add New Customer page
+2025-03-26 12:07:22 INFO  TC_NC_001:15 - Entered Customer Name: dqNcr
+2025-03-26 12:07:22 INFO  TC_NC_001:18 - Selected Gender: Male
+2025-03-26 12:07:22 INFO  TC_NC_001:22 - Entered Date of Birth: 26-03-2025
+2025-03-26 12:07:22 INFO  TC_NC_001:26 - Entered Address: AtyMV
+2025-03-26 12:07:22 INFO  TC_NC_001:30 - Entered City: RnnOz
+2025-03-26 12:07:22 INFO  TC_NC_001:34 - Entered State: IHhHB
+2025-03-26 12:07:22 INFO  TC_NC_001:38 - Entered PIN: 370008
+2025-03-26 12:07:23 INFO  TC_NC_001:42 - Entered Mobile Number: 9601809981
+2025-03-26 12:07:23 INFO  TC_NC_001:46 - Entered Email ID: WoTWy@gmail.com
+2025-03-26 12:07:23 INFO  TC_NC_001:49 - Clicked on Submit button
+2025-03-26 12:07:23 ERROR TC_NC_001:73 - No success alert appeared. Possible form submission failure.
+org.openqa.selenium.NoAlertPresentException: no such alert
+  (Session info: chrome=134.0.6998.118)
+Build info: version: '4.30.0', revision: '509c7f17cc*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [94b55abbc8ca1c15b15b7bd21b05d084, getAlertText {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.118, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\bhara\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57588}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57588/devtoo..., se:cdpVersion: 134.0.6998.118, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 94b55abbc8ca1c15b15b7bd21b05d084
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:622) ~[selenium-remote-driver-4.30.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator.alert(RemoteWebDriver.java:1194) ~[selenium-remote-driver-4.30.0.jar:?]
+	at tests.TC_NC_001.verifySuccessAlert(TC_NC_001.java:58) ~[test-classes/:?]
+	at tests.TC_NC_001.newCustomerAdding(TC_NC_001.java:52) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+2025-03-26 12:07:23 INFO  TC_NC_001:96 - Test execution completed. Browser closed.
+2025-03-26 12:07:23 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@6dd82486: 28 ms
+2025-03-26 12:07:23 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@45e22def: 75 ms
+2025-03-26 12:07:23 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@5918c260: 13 ms
+2025-03-26 12:07:23 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@571a9686: 16 ms
+2025-03-26 12:07:23 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5496c165: 19 ms
+2025-03-26 12:07:23 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@39ad12b6: 12 ms
+2025-03-26 12:07:23 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4eb45fec: 0 ms
+2025-03-26 12:31:40 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [D:\Automation\org.bank.demo\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-03-26 12:31:40 INFO  TC_NC_004:46 - Initializing test setup...
+2025-03-26 12:31:40 INFO  TC_NC_002:46 - Initializing test setup...
+2025-03-26 12:31:40 INFO  TC_NC_001:46 - Initializing test setup...
+2025-03-26 12:31:40 INFO  TC_NC_003:46 - Initializing test setup...
+2025-03-26 12:31:40 INFO  TC_NC_004:52 - Configuration file loaded successfully.
+2025-03-26 12:31:40 INFO  TC_NC_002:52 - Configuration file loaded successfully.
+2025-03-26 12:31:40 INFO  TC_NC_001:52 - Configuration file loaded successfully.
+2025-03-26 12:31:40 INFO  TC_NC_003:52 - Configuration file loaded successfully.
+2025-03-26 12:31:48 INFO  TC_NC_003:59 - WebDriver initialized successfully.
+2025-03-26 12:31:48 INFO  TC_NC_004:59 - WebDriver initialized successfully.
+2025-03-26 12:31:49 INFO  TC_NC_001:59 - WebDriver initialized successfully.
+2025-03-26 12:31:49 INFO  TC_NC_004:64 - Application launched: https://demo.guru99.com/V2/ 
+2025-03-26 12:31:49 INFO  TC_NC_002:59 - WebDriver initialized successfully.
+2025-03-26 12:31:51 INFO  TC_NC_005:46 - Initializing test setup...
+2025-03-26 12:31:51 INFO  TC_NC_005:52 - Configuration file loaded successfully.
+2025-03-26 12:31:51 INFO  TC_NC_003:64 - Application launched: https://demo.guru99.com/V2/ 
+2025-03-26 12:32:27 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [D:\Automation\org.bank.demo\testng.xml] otherwise TestNG may fail or not work as expected.
+2025-03-26 12:32:28 INFO  TC_NC_026:46 - Initializing test setup...
+2025-03-26 12:32:28 INFO  TC_NC_027:46 - Initializing test setup...
+2025-03-26 12:32:28 INFO  TC_NC_027:52 - Configuration file loaded successfully.
+2025-03-26 12:32:28 INFO  TC_NC_026:52 - Configuration file loaded successfully.
+2025-03-26 12:32:30 INFO  TC_NC_027:59 - WebDriver initialized successfully.
+2025-03-26 12:32:30 INFO  TC_NC_026:59 - WebDriver initialized successfully.
+2025-03-26 12:32:32 INFO  TC_NC_027:64 - Application launched: https://demo.guru99.com/V2/ 
+2025-03-26 12:32:32 INFO  TC_NC_026:64 - Application launched: https://demo.guru99.com/V2/ 
+2025-03-26 12:32:34 INFO  TC_NC_026:71 - Entered credentials and attempted login.
+2025-03-26 12:32:34 INFO  TC_NC_027:71 - Entered credentials and attempted login.
+2025-03-26 12:32:34 INFO  TC_NC_026:79 - Login successful. Navigated to Home Page.
+2025-03-26 12:32:34 INFO  TC_NC_027:79 - Login successful. Navigated to Home Page.
+2025-03-26 12:32:35 INFO  TC_NC_026:88 - Successfully navigated to 'Add New Customer' page.
+2025-03-26 12:32:35 INFO  TC_NC_026:11 - Entering an email ID with a leading space...
+2025-03-26 12:32:35 INFO  TC_NC_027:88 - Successfully navigated to 'Add New Customer' page.
+2025-03-26 12:32:35 INFO  TC_NC_027:12 - Entering an empty Email ID...
+2025-03-26 12:32:35 INFO  TC_NC_026:17 - Captured Error Message: 'First character can not have space'
+2025-03-26 12:32:35 INFO  TC_NC_026:21 - Error message verification passed successfully.
+2025-03-26 12:32:36 INFO  TC_NC_027:18 - Captured Error Message: 'Email-ID must not be blank'
+2025-03-26 12:32:36 INFO  TC_NC_026:96 - Test execution completed. Browser closed.
+2025-03-26 12:32:36 INFO  TC_NC_027:96 - Test execution completed. Browser closed.
