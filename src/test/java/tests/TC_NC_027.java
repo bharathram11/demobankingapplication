@@ -19,7 +19,7 @@ public class TC_NC_027 extends BaseClass {
             String actualErrorMsg = acp.getErrorMessageofEmail();
             log.debug("Captured Error Message: '" + actualErrorMsg + "'");
 
-            String expectedErrorMsg = "Email-ID must not be blank";
+            String expectedErrorMsg = "Eml-ID must not be blank";
 
             if (!actualErrorMsg.trim().equals(expectedErrorMsg)) {
                 log.error(" ERROR MESSAGE MISMATCH ");
