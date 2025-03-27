@@ -50,3 +50,16 @@
 2025-03-26 15:37:58 ERROR TC_NC_027:26 -   Expected: 'Emil-ID must not be blank'
 2025-03-26 15:37:58 ERROR TC_NC_027:27 -   Actual:   'Email-ID must not be blank'
 2025-03-26 15:37:58 INFO  TC_NC_027:96 - Test execution completed. Browser closed.
+2025-03-27 11:01:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\bhara\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2025-03-27 11:01:20 INFO  TC_NC_027:46 - Initializing test setup...
+2025-03-27 11:01:20 INFO  TC_NC_027:52 - Configuration file loaded successfully.
+2025-03-27 11:01:25 INFO  TC_NC_027:59 - WebDriver initialized successfully.
+2025-03-27 11:01:26 INFO  TC_NC_027:64 - Application launched: https://demo.guru99.com/V2/ 
+2025-03-27 11:01:28 INFO  TC_NC_027:71 - Entered credentials and attempted login.
+2025-03-27 11:01:28 INFO  TC_NC_027:79 - Login successful. Navigated to Home Page.
+2025-03-27 11:01:29 INFO  TC_NC_027:88 - Successfully navigated to 'Add New Customer' page.
+2025-03-27 11:01:29 INFO  TC_NC_027:12 - Entering an empty Email ID...
+2025-03-27 11:01:29 INFO  TC_NC_027:33 -  Error message verification PASSED successfully.
+2025-03-27 11:01:29 INFO  TC_NC_027:96 - Test execution completed. Browser closed.
